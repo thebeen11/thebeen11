@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Tomi%20Bagus%20Nugroho&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Front-End%20Engineer%20%C2%B7%20Semarang%2C%20Indonesia&descAlignY=54&descSize=16&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&section=header&text=Tomi%20Bagus%20Nugroho&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Jakarta%2C%20Indonesia&descAlignY=54&descSize=16&animation=fadeIn" alt="header" />
 
 <a href="https://imbeen.my.id">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&height=45&lines=Vue.js+%26+React.js+Developer;Interfaces+built+with+TypeScript+%26+Tailwind;Nuxt+3+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter;Currently+shipping+myFinance+%26+SuperAI+Hackathon" alt="typing" />
@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Semarang,_Indonesia-0D1117?style=flat-square&labelColor=0D1117&color=161B22" alt="location" />
+<img src="https://img.shields.io/badge/📍_Jakarta,_Indonesia-0D1117?style=flat-square&labelColor=0D1117&color=161B22" alt="location" />
 <img src="https://img.shields.io/badge/🎓_Universitas_Negeri_Semarang-0D1117?style=flat-square&labelColor=0D1117&color=161B22" alt="university" />
 <img src="https://img.shields.io/badge/🏆_Pull_Shark_·_Pair_Extraordinaire_·_YOLO-0D1117?style=flat-square&labelColor=0D1117&color=161B22" alt="achievements" />
 
@@ -29,8 +29,8 @@
 const tomi: Developer = {
   name:      "Tomi Bagus Nugroho",
   alias:     "@thebeen11",
-  role:      "Front-End Web Developer",
-  based_in:  "Semarang, Indonesia 🇮🇩",
+  role:      "Software Engineer",
+  based_in:  "Jakarta, Indonesia 🇮🇩",
   studying:  "Universitas Negeri Semarang",
   web:       "https://imbeen.my.id",
 
@@ -40,7 +40,7 @@ const tomi: Developer = {
   currently: {
     building:  ["myFinance", "superai-hackathon"],
     learning:  "shipping full-stack products end to end",
-    open_to:   "front-end roles & collaboration",
+    open_to:   "software engineering roles & collaboration",
   },
 };
 ```
@@ -170,7 +170,7 @@ timeline
 
 ### 💬 &nbsp;Let's build something
 
-I'm always up for interesting front-end work, open-source collabs, or a good conversation about design systems.
+I'm always up for interesting engineering work, open-source collabs, or a good conversation about building things well.
 
 <a href="mailto:bagus11nugroho@gmail.com"><img src="https://img.shields.io/badge/bagus11nugroho@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" /></a>
 <a href="https://imbeen.my.id"><img src="https://img.shields.io/badge/imbeen.my.id-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="website" /></a>
