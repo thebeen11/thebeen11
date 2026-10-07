@@ -9,6 +9,7 @@
 <br/>
 
 <a href="https://imbeen.my.id"><img src="https://img.shields.io/badge/Portfolio-imbeen.my.id-00D9FF?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="portfolio" /></a>
+<a href="https://www.tomi-nugroho.web.id"><img src="https://img.shields.io/badge/Website-tomi--nugroho.web.id-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="personal website" /></a>
 <a href="mailto:bagus11nugroho@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" /></a>
 <a href="https://github.com/thebeen11?tab=followers"><img src="https://img.shields.io/github/followers/thebeen11?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=7C3AED" alt="followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=thebeen11&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="views" />
@@ -33,6 +34,7 @@ const tomi: Developer = {
   based_in:  "Jakarta, Indonesia 🇮🇩",
   studying:  "Universitas Negeri Semarang",
   web:       "https://imbeen.my.id",
+  site:      "https://www.tomi-nugroho.web.id",
 
   daily_drivers: ["Vue.js", "React.js", "TypeScript", "Tailwind CSS"],
   also_speaks:   ["Nuxt 3", "Next.js", "React Native", "Flutter", "Spring Boot"],
@@ -174,6 +176,7 @@ I'm always up for interesting engineering work, open-source collabs, or a good c
 
 <a href="mailto:bagus11nugroho@gmail.com"><img src="https://img.shields.io/badge/bagus11nugroho@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email" /></a>
 <a href="https://imbeen.my.id"><img src="https://img.shields.io/badge/imbeen.my.id-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="website" /></a>
+<a href="https://www.tomi-nugroho.web.id"><img src="https://img.shields.io/badge/tomi--nugroho.web.id-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="personal website" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&section=footer&text=Thanks%20for%20scrolling%20✨&fontSize=20&fontColor=ffffff&fontAlignY=72" alt="footer" />
 
